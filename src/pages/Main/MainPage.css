@@ -1,0 +1,29 @@
+.main-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.hero-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    height: 400px;
+    margin: 10px;
+    text-decoration: none !important;
+    color: black;
+}
+
+.hero-image {
+    width: 100%;
+}
+
+.hero-title {
+    margin: 10px;
+
+    font-size: 30px;
+    text-align: center;
+}

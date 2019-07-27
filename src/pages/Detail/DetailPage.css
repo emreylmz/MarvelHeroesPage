@@ -1,0 +1,40 @@
+.hero-detail-page-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.back-button {
+    align-self: baseline;
+}
+
+.hero-detail-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    margin-bottom: 50px;
+}
+
+.hero-detail-image {
+    width: 500px;
+    margin-bottom: 10px;
+}
+
+.hero-detail-name {
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.hero-detail-description {
+    font-size: 24px;
+}
+
+.comics-title {
+    font-size: 32px;
+    text-decoration: underline;
+    margin: 50px;
+}
